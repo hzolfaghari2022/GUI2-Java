@@ -1,0 +1,1 @@
+Graphical interfaces design using JavaFX. In this project, we used JavaFX to design Graphical User Interface. When you run it using your IDE a GUI will be appeared. At this step it has a limited tool, but it is easy enough to improve this GUI to other applications with more operations. 
